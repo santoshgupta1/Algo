@@ -1,0 +1,5 @@
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\NQueen\bin\Debug\NQueen.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\NQueen\bin\Debug\NQueen.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\NQueen\bin\Debug\NQueen.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\NQueen\obj\Debug\NQueen.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\NQueen\obj\Debug\NQueen.pdb

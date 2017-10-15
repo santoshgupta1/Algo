@@ -1,0 +1,12 @@
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\TextJustification\bin\Debug\TextJustification.exe.config
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\TextJustification\obj\Debug\TextJustification.csprojResolveAssemblyReference.cache
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\TextJustification\bin\Debug\TextJustification.exe
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\TextJustification\bin\Debug\TextJustification.pdb
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\TextJustification\obj\Debug\TextJustification.exe
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\TextJustification\obj\Debug\TextJustification.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\TextJustification\bin\Debug\TextJustification.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\TextJustification\bin\Debug\TextJustification.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\TextJustification\bin\Debug\TextJustification.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\TextJustification\obj\Debug\TextJustification.csprojResolveAssemblyReference.cache
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\TextJustification\obj\Debug\TextJustification.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\TextJustification\obj\Debug\TextJustification.pdb

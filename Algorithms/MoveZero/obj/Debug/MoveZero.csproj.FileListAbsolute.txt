@@ -1,0 +1,11 @@
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\MoveZero\bin\Debug\MoveZero.exe.config
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\MoveZero\obj\Debug\MoveZero.csprojResolveAssemblyReference.cache
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\MoveZero\bin\Debug\MoveZero.exe
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\MoveZero\bin\Debug\MoveZero.pdb
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\MoveZero\obj\Debug\MoveZero.exe
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\MoveZero\obj\Debug\MoveZero.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\MoveZero\bin\Debug\MoveZero.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\MoveZero\bin\Debug\MoveZero.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\MoveZero\bin\Debug\MoveZero.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\MoveZero\obj\Debug\MoveZero.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\MoveZero\obj\Debug\MoveZero.pdb

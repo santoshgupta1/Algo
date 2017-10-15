@@ -1,0 +1,5 @@
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\BinarytreeFromInorder\bin\Debug\BinarytreeFromInorder.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\BinarytreeFromInorder\bin\Debug\BinarytreeFromInorder.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\BinarytreeFromInorder\bin\Debug\BinarytreeFromInorder.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\BinarytreeFromInorder\obj\Debug\BinarytreeFromInorder.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\BinarytreeFromInorder\obj\Debug\BinarytreeFromInorder.pdb

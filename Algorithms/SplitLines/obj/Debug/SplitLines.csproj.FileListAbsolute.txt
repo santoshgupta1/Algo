@@ -1,0 +1,11 @@
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\SplitLines\bin\Debug\SplitLines.exe.config
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\SplitLines\bin\Debug\SplitLines.exe
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\SplitLines\bin\Debug\SplitLines.pdb
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\SplitLines\obj\Debug\SplitLines.exe
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\SplitLines\obj\Debug\SplitLines.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\SplitLines\bin\Debug\SplitLines.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\SplitLines\bin\Debug\SplitLines.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\SplitLines\bin\Debug\SplitLines.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\SplitLines\obj\Debug\SplitLines.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\SplitLines\obj\Debug\SplitLines.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\SplitLines\obj\Debug\SplitLines.csprojResolveAssemblyReference.cache

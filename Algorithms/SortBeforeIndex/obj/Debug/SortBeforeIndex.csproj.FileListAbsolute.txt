@@ -1,0 +1,17 @@
+C:\Users\sangup\Desktop\OnesCountUntilaNumber\SortBeforeIndex\bin\Debug\SortBeforeIndex.exe.config
+C:\Users\sangup\Desktop\OnesCountUntilaNumber\SortBeforeIndex\bin\Debug\SortBeforeIndex.exe
+C:\Users\sangup\Desktop\OnesCountUntilaNumber\SortBeforeIndex\bin\Debug\SortBeforeIndex.pdb
+C:\Users\sangup\Desktop\OnesCountUntilaNumber\SortBeforeIndex\obj\Debug\SortBeforeIndex.exe
+C:\Users\sangup\Desktop\OnesCountUntilaNumber\SortBeforeIndex\obj\Debug\SortBeforeIndex.pdb
+C:\Users\sangup\Desktop\OnesCountUntilaNumber\SortBeforeIndex\obj\Debug\SortBeforeIndex.csprojResolveAssemblyReference.cache
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\SortBeforeIndex\bin\Debug\SortBeforeIndex.exe.config
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\SortBeforeIndex\obj\Debug\SortBeforeIndex.exe
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\SortBeforeIndex\obj\Debug\SortBeforeIndex.pdb
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\SortBeforeIndex\bin\Debug\SortBeforeIndex.exe
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\SortBeforeIndex\bin\Debug\SortBeforeIndex.pdb
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\SortBeforeIndex\obj\Debug\SortBeforeIndex.csprojResolveAssemblyReference.cache
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\SortBeforeIndex\bin\Debug\SortBeforeIndex.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\SortBeforeIndex\obj\Debug\SortBeforeIndex.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\SortBeforeIndex\obj\Debug\SortBeforeIndex.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\SortBeforeIndex\bin\Debug\SortBeforeIndex.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\SortBeforeIndex\bin\Debug\SortBeforeIndex.pdb

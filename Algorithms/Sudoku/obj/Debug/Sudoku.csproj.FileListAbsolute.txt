@@ -1,0 +1,5 @@
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\Sudoku\bin\Debug\Sudoku.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\Sudoku\bin\Debug\Sudoku.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\Sudoku\bin\Debug\Sudoku.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\Sudoku\obj\Debug\Sudoku.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\Sudoku\obj\Debug\Sudoku.pdb

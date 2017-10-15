@@ -1,0 +1,5 @@
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\Permutations\bin\Debug\Permutations.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\Permutations\bin\Debug\Permutations.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\Permutations\bin\Debug\Permutations.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\Permutations\obj\Debug\Permutations.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\Permutations\obj\Debug\Permutations.pdb

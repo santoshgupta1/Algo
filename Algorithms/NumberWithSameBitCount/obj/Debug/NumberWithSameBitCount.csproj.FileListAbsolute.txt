@@ -1,0 +1,6 @@
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\NumberWithSameBitCount\bin\Debug\NumberWithSameBitCount.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\NumberWithSameBitCount\bin\Debug\NumberWithSameBitCount.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\NumberWithSameBitCount\bin\Debug\NumberWithSameBitCount.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\NumberWithSameBitCount\obj\Debug\NumberWithSameBitCount.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\NumberWithSameBitCount\obj\Debug\NumberWithSameBitCount.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\NumberWithSameBitCount\obj\Debug\NumberWithSameBitCount.csprojResolveAssemblyReference.cache

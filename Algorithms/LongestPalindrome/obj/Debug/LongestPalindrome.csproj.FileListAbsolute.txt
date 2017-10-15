@@ -1,0 +1,6 @@
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\LongestPalindrome\bin\Debug\LongestPalindrome.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\LongestPalindrome\bin\Debug\LongestPalindrome.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\LongestPalindrome\bin\Debug\LongestPalindrome.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\LongestPalindrome\obj\Debug\LongestPalindrome.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\LongestPalindrome\obj\Debug\LongestPalindrome.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\LongestPalindrome\obj\Debug\LongestPalindrome.csprojResolveAssemblyReference.cache

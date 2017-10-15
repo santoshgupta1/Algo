@@ -1,0 +1,14 @@
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\OnesCountUntilaNumber\bin\Debug\OnesCountUntilaNumber.exe.config
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\OnesCountUntilaNumber\bin\Debug\OnesCountUntilaNumber.exe
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\OnesCountUntilaNumber\bin\Debug\OnesCountUntilaNumber.pdb
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\OnesCountUntilaNumber\obj\Debug\OnesCountUntilaNumber.exe
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\OnesCountUntilaNumber\obj\Debug\OnesCountUntilaNumber.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\OnesCountUntilaNumber\bin\Debug\OnesCountUntilaNumber.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\OnesCountUntilaNumber\bin\Debug\OnesCountUntilaNumber.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\OnesCountUntilaNumber\bin\Debug\OnesCountUntilaNumber.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\OnesCountUntilaNumber\obj\Debug\OnesCountUntilaNumber.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\OnesCountUntilaNumber\obj\Debug\OnesCountUntilaNumber.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\OnesCountUntilaNumber\obj\Debug\OnesCountUntilaNumber.csprojResolveAssemblyReference.cache
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\Algo\Algorithms\OnesCountUntilaNumber\bin\Debug\OnesCountUntilaNumber.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\Algo\Algorithms\OnesCountUntilaNumber\obj\Debug\OnesCountUntilaNumber.exe
+C:\Users\sangup.REDMOND\Source\Repos\santoshgupta1\Algo\Algorithms\OnesCountUntilaNumber\obj\Debug\OnesCountUntilaNumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GetDirectionalMatrix\bin\Debug\GetDirectionalMatrix.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GetDirectionalMatrix\bin\Debug\GetDirectionalMatrix.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GetDirectionalMatrix\bin\Debug\GetDirectionalMatrix.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GetDirectionalMatrix\obj\Debug\PrintDirectionalMatrixPattern.csprojResolveAssemblyReference.cache
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GetDirectionalMatrix\obj\Debug\GetDirectionalMatrix.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GetDirectionalMatrix\obj\Debug\GetDirectionalMatrix.pdb

@@ -1,0 +1,5 @@
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GenerateKbitSkipThreeConsecutiveOne\bin\Debug\GenerateKbitSkipThreeConsecutiveOne.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GenerateKbitSkipThreeConsecutiveOne\bin\Debug\GenerateKbitSkipThreeConsecutiveOne.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GenerateKbitSkipThreeConsecutiveOne\bin\Debug\GenerateKbitSkipThreeConsecutiveOne.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GenerateKbitSkipThreeConsecutiveOne\obj\Debug\GenerateKbitSkipThreeConsecutiveOne.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GenerateKbitSkipThreeConsecutiveOne\obj\Debug\GenerateKbitSkipThreeConsecutiveOne.pdb

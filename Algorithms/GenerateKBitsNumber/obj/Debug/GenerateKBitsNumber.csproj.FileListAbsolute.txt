@@ -1,0 +1,6 @@
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GenerateKBitsNumber\bin\Debug\GenerateKBitsNumber.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GenerateKBitsNumber\bin\Debug\GenerateKBitsNumber.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GenerateKBitsNumber\bin\Debug\GenerateKBitsNumber.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GenerateKBitsNumber\obj\Debug\GenerateKBitsNumber.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GenerateKBitsNumber\obj\Debug\GenerateKBitsNumber.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\GenerateKBitsNumber\obj\Debug\GenerateKBitsNumber.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\CombinationAndPermutation\bin\Debug\CombinationAndPermutation.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\CombinationAndPermutation\bin\Debug\CombinationAndPermutation.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\CombinationAndPermutation\bin\Debug\CombinationAndPermutation.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\CombinationAndPermutation\obj\Debug\CombinationAndPermutation.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\CombinationAndPermutation\obj\Debug\CombinationAndPermutation.pdb

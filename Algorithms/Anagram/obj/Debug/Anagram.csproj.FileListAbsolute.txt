@@ -1,0 +1,12 @@
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\Anagram\bin\Debug\Anagram.exe.config
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\Anagram\bin\Debug\Anagram.exe
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\Anagram\bin\Debug\Anagram.pdb
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\Anagram\obj\Debug\Anagram.csprojResolveAssemblyReference.cache
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\Anagram\obj\Debug\Anagram.exe
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\Anagram\obj\Debug\Anagram.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\Anagram\bin\Debug\Anagram.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\Anagram\bin\Debug\Anagram.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\Anagram\bin\Debug\Anagram.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\Anagram\obj\Debug\Anagram.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\Anagram\obj\Debug\Anagram.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\Anagram\obj\Debug\Anagram.csprojResolveAssemblyReference.cache

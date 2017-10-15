@@ -1,0 +1,5 @@
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\MajorityVoting\bin\Debug\MajorityVoting.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\MajorityVoting\bin\Debug\MajorityVoting.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\MajorityVoting\bin\Debug\MajorityVoting.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\MajorityVoting\obj\Debug\MajorityVoting.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\MajorityVoting\obj\Debug\MajorityVoting.pdb

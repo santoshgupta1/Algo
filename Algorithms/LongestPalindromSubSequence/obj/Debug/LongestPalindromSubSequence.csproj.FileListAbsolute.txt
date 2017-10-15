@@ -1,0 +1,11 @@
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\LongestPalindromSubSequence\bin\Debug\LongestPalindromSubSequence.exe.config
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\LongestPalindromSubSequence\bin\Debug\LongestPalindromSubSequence.exe
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\LongestPalindromSubSequence\bin\Debug\LongestPalindromSubSequence.pdb
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\LongestPalindromSubSequence\obj\Debug\LongestPalindromSubSequence.csprojResolveAssemblyReference.cache
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\LongestPalindromSubSequence\obj\Debug\LongestPalindromSubSequence.exe
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\LongestPalindromSubSequence\obj\Debug\LongestPalindromSubSequence.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\LongestPalindromSubSequence\bin\Debug\LongestPalindromSubSequence.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\LongestPalindromSubSequence\bin\Debug\LongestPalindromSubSequence.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\LongestPalindromSubSequence\bin\Debug\LongestPalindromSubSequence.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\LongestPalindromSubSequence\obj\Debug\LongestPalindromSubSequence.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\LongestPalindromSubSequence\obj\Debug\LongestPalindromSubSequence.pdb

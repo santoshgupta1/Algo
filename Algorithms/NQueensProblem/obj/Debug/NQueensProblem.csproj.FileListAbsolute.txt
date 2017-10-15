@@ -1,0 +1,5 @@
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\NQueensProblem\bin\Debug\NQueensProblem.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\NQueensProblem\bin\Debug\NQueensProblem.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\NQueensProblem\bin\Debug\NQueensProblem.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\NQueensProblem\obj\Debug\NQueensProblem.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\NQueensProblem\obj\Debug\NQueensProblem.pdb

@@ -1,0 +1,11 @@
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\IsBinarySearchTree\bin\Debug\IsBinarySearchTree.exe.config
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\IsBinarySearchTree\bin\Debug\IsBinarySearchTree.exe
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\IsBinarySearchTree\bin\Debug\IsBinarySearchTree.pdb
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\IsBinarySearchTree\obj\Debug\IsBinarySearchTree.csprojResolveAssemblyReference.cache
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\IsBinarySearchTree\obj\Debug\IsBinarySearchTree.exe
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\IsBinarySearchTree\obj\Debug\IsBinarySearchTree.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\IsBinarySearchTree\bin\Debug\IsBinarySearchTree.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\IsBinarySearchTree\bin\Debug\IsBinarySearchTree.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\IsBinarySearchTree\bin\Debug\IsBinarySearchTree.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\IsBinarySearchTree\obj\Debug\IsBinarySearchTree.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\IsBinarySearchTree\obj\Debug\IsBinarySearchTree.pdb

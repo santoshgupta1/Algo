@@ -1,0 +1,6 @@
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\PreviousSmallestNode\bin\Debug\PreviousSmallestNode.exe.config
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\PreviousSmallestNode\bin\Debug\PreviousSmallestNode.exe
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\PreviousSmallestNode\bin\Debug\PreviousSmallestNode.pdb
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\PreviousSmallestNode\obj\Debug\PreviousSmallestNode.csprojResolveAssemblyReference.cache
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\PreviousSmallestNode\obj\Debug\PreviousSmallestNode.exe
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\PreviousSmallestNode\obj\Debug\PreviousSmallestNode.pdb

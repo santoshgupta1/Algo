@@ -1,0 +1,11 @@
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\AddWithoutArithmeticOperators\bin\Debug\AddWithoutArithmeticOperators.exe.config
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\AddWithoutArithmeticOperators\obj\Debug\AddWithoutArithmeticOperators.csprojResolveAssemblyReference.cache
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\AddWithoutArithmeticOperators\bin\Debug\AddWithoutArithmeticOperators.exe
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\AddWithoutArithmeticOperators\bin\Debug\AddWithoutArithmeticOperators.pdb
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\AddWithoutArithmeticOperators\obj\Debug\AddWithoutArithmeticOperators.exe
+C:\Users\sangup.REDMOND\Documents\Visual Studio 2015\Projects\OnesCountUntilaNumber\AddWithoutArithmeticOperators\obj\Debug\AddWithoutArithmeticOperators.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\AddWithoutArithmeticOperators\bin\Debug\AddWithoutArithmeticOperators.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\AddWithoutArithmeticOperators\bin\Debug\AddWithoutArithmeticOperators.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\AddWithoutArithmeticOperators\bin\Debug\AddWithoutArithmeticOperators.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\AddWithoutArithmeticOperators\obj\Debug\AddWithoutArithmeticOperators.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\AddWithoutArithmeticOperators\obj\Debug\AddWithoutArithmeticOperators.pdb

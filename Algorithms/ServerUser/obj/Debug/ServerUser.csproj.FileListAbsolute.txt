@@ -1,0 +1,5 @@
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\ServerUser\bin\Debug\ServerUser.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\ServerUser\bin\Debug\ServerUser.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\ServerUser\bin\Debug\ServerUser.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\ServerUser\obj\Debug\ServerUser.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\ServerUser\obj\Debug\ServerUser.pdb

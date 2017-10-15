@@ -1,0 +1,12 @@
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\TrassureHunt\bin\Debug\TrassureHunt.exe.config
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\TrassureHunt\bin\Debug\TrassureHunt.exe
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\TrassureHunt\bin\Debug\TrassureHunt.pdb
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\TrassureHunt\obj\Debug\TrassureHunt.csprojResolveAssemblyReference.cache
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\TrassureHunt\obj\Debug\TrassureHunt.exe
+c:\users\sangup.redmond\documents\visual studio 2015\Projects\OnesCountUntilaNumber\TrassureHunt\obj\Debug\TrassureHunt.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\TrassureHunt\bin\Debug\TrassureHunt.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\TrassureHunt\bin\Debug\TrassureHunt.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\TrassureHunt\bin\Debug\TrassureHunt.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\TrassureHunt\obj\Debug\TrassureHunt.csprojResolveAssemblyReference.cache
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\TrassureHunt\obj\Debug\TrassureHunt.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\TrassureHunt\obj\Debug\TrassureHunt.pdb

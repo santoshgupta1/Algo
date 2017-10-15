@@ -1,0 +1,5 @@
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\KSubset\bin\Debug\KSubset.exe.config
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\KSubset\bin\Debug\KSubset.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\KSubset\bin\Debug\KSubset.pdb
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\KSubset\obj\Debug\KSubset.exe
+C:\Users\sangup.REDMOND\Source\Repos\Algorithm\Algorithm\KSubset\obj\Debug\KSubset.pdb
